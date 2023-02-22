@@ -1,0 +1,68 @@
+{
+    "id": "rct2.ride.maze_ice",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "maze",
+        "category": "gentle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$G1[21992]",
+        "$G1[2485]",
+        "$G1[21964..21976]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice blocks",
+            "ca-ES": "Blocs de gel",
+            "cs-CZ": "Kusy ledu",
+            "da-DK": "Isblokke",
+            "de-DE": "Eisblöcke",
+            "eo-ZZ": "Blokoj de glacio",
+            "es-ES": "Bloque de hielo",
+            "fi-FI": "Jääpalat",
+            "fr-FR": "Blocs de glace",
+            "hu-HU": "Jégtömbök",
+            "it-IT": "Blocchi di ghiaccio",
+            "ja-JP": "アイスブロック",
+            "ko-KR": "얼음 벽돌 벽",
+            "nl-NL": "Blokken ijs",
+            "pl-PL": "Lodowe bloki",
+            "pt-BR": "Blocos de Gelo",
+            "ru-RU": "Лед. блоки",
+            "sv-SE": "Isblock",
+            "tr-TR": "Buz blokları",
+            "zh-CN": "冰砖墙",
+            "zh-TW": "冰磚牆"
+        },
+        "description": {
+            "en-GB": ""
+        },
+        "capacity": {
+            "en-GB": ""
+        }
+    }
+}

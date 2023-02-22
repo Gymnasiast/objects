@@ -1,0 +1,66 @@
+{
+    "id": "rct2.ride.maze_hedges",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "maze",
+        "category": "gentle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": [
+        "$RCT2:OBJDATA/HMAZE.DAT[0..2]", 
+        "$G1[21991]",
+        "$G1[2485]",
+        "$G1[21938..21950]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Hedges",
+            "ca-ES": "Bardisses",
+            "cs-CZ": "Živý plot",
+            "da-DK": "Hække",
+            "de-DE": "Hecken",
+            "eo-ZZ": "Heĝoj",
+            "es-ES": "Arbusto",
+            "fi-FI": "Pensasaidat",
+            "fr-FR": "Haies",
+            "hu-HU": "Sövények",
+            "it-IT": "Siepi",
+            "ja-JP": "生け垣",
+            "ko-KR": "생울타리 벽",
+            "nl-NL": "Heggen",
+            "pl-PL": "Żywopłoty",
+            "pt-BR": "Sebes",
+            "ru-RU": "Ограда",
+            "sv-SE": "Häckar",
+            "tr-TR": "Doğasal çitler",
+            "zh-CN": "树篱",
+            "zh-TW": "磚牆"
+        },
+        "description": {
+            "en-GB": ""
+        },
+        "capacity": {
+            "en-GB": ""
+        }
+    }
+}

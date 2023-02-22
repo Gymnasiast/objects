@@ -1,0 +1,68 @@
+{
+    "id": "rct2.ride.maze_wood",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "maze",
+        "category": "gentle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$G1[21993]",
+        "$G1[2485]",
+        "$G1[21977..21989]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden fences",
+            "ca-ES": "Tanques de fusta",
+            "cs-CZ": "Dřevěný plot",
+            "da-DK": "Træstakitter",
+            "de-DE": "Holzzäune",
+            "eo-ZZ": "Lignaj bariloj",
+            "es-ES": "Cerca de madera",
+            "fi-FI": "Puiset aidat",
+            "fr-FR": "Clôtures en bois",
+            "hu-HU": "Fakerítések",
+            "it-IT": "Recinti di legno",
+            "ja-JP": "木の柵",
+            "ko-KR": "나무 벽",
+            "nl-NL": "Houten schuttingen",
+            "pl-PL": "Drewniane płoty",
+            "pt-BR": "Cercas de Madeira",
+            "ru-RU": "Дерев. изгородь",
+            "sv-SE": "Trästaket",
+            "tr-TR": "Ahşap duvarlar",
+            "zh-CN": "木栅栏",
+            "zh-TW": "木柵欄"
+        },
+        "description": {
+            "en-GB": ""
+        },
+        "capacity": {
+            "en-GB": ""
+        }
+    }
+}

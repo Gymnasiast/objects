@@ -1,0 +1,68 @@
+{
+    "id": "rct2.ride.maze_brick",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["rct2", "rct1"],
+    "objectType": "ride",
+    "properties": {
+        "type": "maze",
+        "category": "gentle",
+        "carsPerFlatRide": 1,
+        "carColours": [
+            [
+                ["black", "black", "black"]
+            ]
+        ],
+        "cars": {
+            "spacing": 139456,
+            "spriteWidth": 1,
+            "spriteHeightNegative": 1,
+            "spriteHeightPositive": 1,
+            "carVisual": 1,
+            "drawOrder": 6,
+            "frames": {
+                "flat": true
+            },
+            "recalculateSpriteBounds": true
+        }
+    },
+    "images": [
+        { "path": "images/preview.png", "format": "raw" },
+        "",
+        "",
+        "$G1[21990]",
+        "$G1[2485]",
+        "$G1[21951..21963]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Brick walls",
+            "ca-ES": "Parets de maó",
+            "cs-CZ": "Cihlová zeď",
+            "da-DK": "Murstensvæge",
+            "de-DE": "Ziegelmauern",
+            "eo-ZZ": "Brikaj muroj",
+            "es-ES": "Paredes de ladrillo",
+            "fi-FI": "Tiiliseinät",
+            "fr-FR": "Mur de briques",
+            "hu-HU": "Téglafalak",
+            "it-IT": "Muri di mattoni",
+            "ja-JP": "煉瓦塀",
+            "ko-KR": "벽돌 벽",
+            "nl-NL": "Stenen muren",
+            "pl-PL": "Ceglane ściany",
+            "pt-BR": "Parede de Tijolos",
+            "ru-RU": "Кирпичные стены",
+            "sv-SE": "Tegelstensväggar",
+            "tr-TR": "Tuğla duvarları",
+            "zh-CN": "砖墙", 
+            "zh-TW": "磚牆"
+        },
+        "description": {
+            "en-GB": ""
+        },
+        "capacity": {
+            "en-GB": ""
+        }
+    }
+}
