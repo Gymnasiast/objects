@@ -18,25 +18,29 @@
             {
                 "x": 0,
                 "y": 0,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 9
             },
             {
                 "x": 0,
                 "y": 32,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 1
             },
             {
                 "x": 0,
                 "y": 64,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 3
             },
             {
                 "x": 32,
                 "y": 0,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 8
             },
             {
@@ -48,31 +52,179 @@
             {
                 "x": 32,
                 "y": 64,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 2
             },
             {
                 "x": 64,
                 "y": 0,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 12
             },
             {
                 "x": 64,
                 "y": 32,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 4
             },
             {
                 "x": 64,
                 "y": 64,
-                "clearance": 136,
+                "z": 32,
+                "clearance": 104,
                 "walls": 6
             }
         ]
     },
     "images": [
-        "$RCT2:OBJDATA/3X3ATRE2.DAT[0..39]"
+        "$RCT2:OBJDATA/3X3ATRE2.DAT[0..3]",
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[4]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[5]",
+            "y": -54
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[6]",
+            "y": -107
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[7]",
+            "y": -39
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[8]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[9]",
+            "y": -83
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[10]",
+            "y": -87
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[11]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[12]",
+            "y": -39
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[13]",
+            "y": -113
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[14]",
+            "y": -52
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[15]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[16]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[17]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[18]",
+            "y": -84
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[19]",
+            "y": -81
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[20]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[21]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[22]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[23]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[24]",
+            "y": -85
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[25]",
+            "y": -84
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[26]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[27]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[28]",
+            "y": -32
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[29]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[30]",
+            "y": -46
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[31]",
+            "y": -107
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[32]",
+            "y": -75
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[33]",
+            "y": 22
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[34]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[35]",
+            "y": -87
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[36]",
+            "y": -108
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[37]",
+            "y": -39
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[38]",
+            "y": 17
+        },
+        {
+            "gx": "$RCT2:OBJDATA/3X3ATRE2.DAT[39]",
+            "y": -43
+        }
     ],
     "strings": {
         "name": {
