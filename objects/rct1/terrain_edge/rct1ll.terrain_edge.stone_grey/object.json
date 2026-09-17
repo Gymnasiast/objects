@@ -9,6 +9,7 @@
     "sourceGame": "rct1ll",
     "objectType": "terrain_edge",
     "properties": {
+        "colour": "grey",
         "hasPrimaryColour": true,
         "hasDoors": true,
         "doorSound": 2

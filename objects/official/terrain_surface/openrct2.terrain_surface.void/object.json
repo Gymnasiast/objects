@@ -8,6 +8,7 @@
     "sourceGame": "official",
     "objectType": "terrain_surface",
     "properties": {
+        "colour": "black",
         "hasPrimaryColour": true,
         "price": 100,
         "mapColours": [

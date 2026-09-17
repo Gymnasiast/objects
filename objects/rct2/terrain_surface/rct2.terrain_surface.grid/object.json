@@ -16,6 +16,7 @@
             10
         ],
         "price": 110,
+        "colour": "bright_purple",
         "hasPrimaryColour": true
     },
     "images": [

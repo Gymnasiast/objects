@@ -8,6 +8,7 @@
     "sourceGame": "official",
     "objectType": "terrain_edge",
     "properties": {
+        "colour": "light_brown",
         "hasPrimaryColour": true
     },
     "images": [
