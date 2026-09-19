@@ -12,8 +12,8 @@
         "hasPrimaryColour": true,
         "price": 100,
         "mapColours": [
-            10,
-            10
+            "dark",
+            "dark"
         ]
     },
     "images": [

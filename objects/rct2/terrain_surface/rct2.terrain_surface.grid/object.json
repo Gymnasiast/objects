@@ -12,7 +12,7 @@
     "objectType": "terrain_surface",
     "properties": {
         "mapColours": [
-            102,
+            "lighter",
             10
         ],
         "price": 110,
