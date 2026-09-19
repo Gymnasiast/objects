@@ -13,7 +13,7 @@
         "hasPrimaryColour": true,
         "price": 110,
         "mapColours": [
-            132,
+            "darkest",
             10
         ]
     },
